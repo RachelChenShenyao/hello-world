@@ -1,2 +1,2 @@
 # hello-world
-test repository
+Hi, there! I'm Rachel.:)
